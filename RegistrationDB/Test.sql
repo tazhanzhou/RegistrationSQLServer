@@ -1,0 +1,1 @@
+﻿Insert into UserInformation(FirstName,LastName,Address,City,Province,PostalCode,Country)values ('ZHANZHOU','TA','689','Verdun','QC','H4G2X5','Canada');
